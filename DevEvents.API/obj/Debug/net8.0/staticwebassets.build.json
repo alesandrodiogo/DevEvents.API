@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "hl3rU5apAKeVDRYYTQ5n+eo/NS0efiNuttW/58kn0u0=",
+  "Source": "DevEvents.API",
+  "BasePath": "_content/DevEvents.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
