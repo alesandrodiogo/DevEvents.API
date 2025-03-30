@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\alesa\\Documents\\alesandro\\DevEvents.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F4546E9-3D65-4AA6-AC87-5BAAE42E5EBE}|DevEvents.API\\DevEvents.API.csproj|c:\\users\\alesa\\documents\\alesandro\\devevents.api\\devevents.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F4546E9-3D65-4AA6-AC87-5BAAE42E5EBE}|DevEvents.API\\DevEvents.API.csproj|solutionrelative:devevents.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F4546E9-3D65-4AA6-AC87-5BAAE42E5EBE}|DevEvents.API\\DevEvents.API.csproj|c:\\users\\alesa\\documents\\alesandro\\devevents.api\\devevents.api\\endpoints\\conferenceendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F4546E9-3D65-4AA6-AC87-5BAAE42E5EBE}|DevEvents.API\\DevEvents.API.csproj|solutionrelative:devevents.api\\endpoints\\conferenceendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F4546E9-3D65-4AA6-AC87-5BAAE42E5EBE}|DevEvents.API\\DevEvents.API.csproj|c:\\users\\alesa\\documents\\alesandro\\devevents.api\\devevents.api\\infrastructure\\reports\\conferencedetailsreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4546E9-3D65-4AA6-AC87-5BAAE42E5EBE}|DevEvents.API\\DevEvents.API.csproj|solutionrelative:devevents.api\\infrastructure\\reports\\conferencedetailsreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,27 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alesa\\Documents\\alesandro\\DevEvents.API\\DevEvents.API\\Program.cs",
-              "RelativeDocumentMoniker": "DevEvents.API\\Program.cs",
-              "ToolTip": "C:\\Users\\alesa\\Documents\\alesandro\\DevEvents.API\\DevEvents.API\\Program.cs",
-              "RelativeToolTip": "DevEvents.API\\Program.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAQwCwAAAApAAAAAAAAAA==",
+              "Title": "ConferenceDetailsReport.cs",
+              "DocumentMoniker": "C:\\Users\\alesa\\Documents\\alesandro\\DevEvents.API\\DevEvents.API\\Infrastructure\\Reports\\ConferenceDetailsReport.cs",
+              "RelativeDocumentMoniker": "DevEvents.API\\Infrastructure\\Reports\\ConferenceDetailsReport.cs",
+              "ToolTip": "C:\\Users\\alesa\\Documents\\alesandro\\DevEvents.API\\DevEvents.API\\Infrastructure\\Reports\\ConferenceDetailsReport.cs",
+              "RelativeToolTip": "DevEvents.API\\Infrastructure\\Reports\\ConferenceDetailsReport.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAIwIgAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T19:45:11.029Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ConferenceEndpoints.cs",
-              "DocumentMoniker": "C:\\Users\\alesa\\Documents\\alesandro\\DevEvents.API\\DevEvents.API\\Endpoints\\ConferenceEndpoints.cs",
-              "RelativeDocumentMoniker": "DevEvents.API\\Endpoints\\ConferenceEndpoints.cs",
-              "ToolTip": "C:\\Users\\alesa\\Documents\\alesandro\\DevEvents.API\\DevEvents.API\\Endpoints\\ConferenceEndpoints.cs",
-              "RelativeToolTip": "DevEvents.API\\Endpoints\\ConferenceEndpoints.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAwwA0AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T17:03:01.35Z",
+              "WhenOpened": "2025-03-27T14:38:48.541Z",
               "EditorCaption": ""
             }
           ]
